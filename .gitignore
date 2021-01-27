@@ -1,4 +1,4 @@
-config/
+config.py
 docker-compose.yml
 .vscode/
 __pycache__/
